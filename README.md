@@ -1,4 +1,4 @@
-# Patterns_of_diagnosed_illness_for_England_using CPRD_HES_ONS_data
+# Patterns of diagnosed illness for England using CPRD HES ONS data
 
 This code has been developed to create a patient-level longitudinal dataset identifying times of onset (incidence), prevalence, remission or mortality for a list of common conditions in the population of England using patient records from primary and secondary care. 
 
