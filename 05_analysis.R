@@ -41,7 +41,7 @@
   #-----------------------------------------------------------------------------
   
   # Constructing age weights for the age standardisation
-  source('./Scripts/06.1_standardisation.R')
+  source('05.1_standardisation.R')
   
   # Join on the standardisation table (with different weights for each population groups) to the panel
   panel_final <- left_join(panel_final, ESP, by = c(strata, 'fyear'))
