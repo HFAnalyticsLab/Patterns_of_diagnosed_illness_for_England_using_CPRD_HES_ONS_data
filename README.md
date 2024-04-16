@@ -32,19 +32,23 @@ The scripts shared can be run in numerical order and act on flat text files for 
   + `02_patient.R` links the patient data with IMD and ethnicity results
   + `02.1_patient_ethnicity.R` uses CPRD observations and a variety of HES data to assign ethnicity to patients. This is based on the number of observations that are made and the most common is assigned. In the case of equal numbers, the most recent is assigned
 * 03 scripts identifies the dates of diagnosis and remission of chosen clinical conditions for the sample of patients both in CPRD and HES (including the different datasets of HES, inpatient, outpatient and emergency admissions)
-  + `03_patient_diagnosis.R`
-  + `03.1_diagnosis_using_prodcodes.R`
-  + `03.2_spell_grouping.R`
-* Script `04_panel_creation.R` constructs a yearly panel dataset which flags whether each patient has a certain condition, and  attributes it a weight (between 0 and 1) corresponding to the proportion of the year the condition is prevalent.
-* Script `05_analysis.R` The final script attaches the weight from the Cambridge Multimorbidity Score (CMS) to each condition to obtain an aggregate measure of multimorbidity.  
-
-
-
+  + `03_patient_diagnosis.R` creates tables of resolving and non-resolving conditions with dates for patients from CPRD observation,  HES admitted and HES outpatient data
+  + `03.1_diagnosis_using_prodcodes.R` adds to the diagnosis tables by adding conditions that may have been missed by certain prescriptions (based on each certain product codes)
+  + `03.2_spell_grouping.R` constucts spells of disease for each patient taking into account close remission and diagnosis dates, hospital spells crossing years and removes duplicates. The source of each diagnosis is recoreded
+* `04_panel_creation.R` constructs a yearly panel dataset which flags whether each patient has a certain condition, and  attributes it a weight (between 0 and 1) corresponding to the proportion of the year the condition is prevalent.
+* The final analysis script attaches the weight from the Cambridge Multimorbidity Score (CMS) to each condition to obtain an aggregate measure of multimorbidity, and produces outputs for the report.
+  +  `05_analyis.R` sets the final variables of interest to report on, and finalises the panel dataset before calculating the CMS for various groups over time
+  +  `05.1_standardisation.R` creates weights for the panel based on [European standard population](https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-ra-13-028) methods 
 
 Note, the sample is split into cohorts of smaller size which allows both to test the code on one cohort and to speed up the analysis. The number and size of the cohort are defined in the script '00_project_setup.R' and analysts can change it to fit their sample size or system's requirements.
 
 ### Cleaning rules
-XX
+There are several cleaning rules which are used throughout these scripts that can be chosen to be run or skipped by setting the following to TRUE/FALSE:
+* `create_cohorts` divide sample into cohorts
+* `remove_dup` remove duplicate CPRD practices
+* `remove_hes_dup`
+* `use_prodcodes` use prescriptions for diagnosis
+* `spell_grouping` run the spell grouping code
 
 
 ## Data sources
@@ -83,7 +87,7 @@ The code relies heavily on the CPRD Aurum pipeline written by Jay Hughes, which 
 * A Health Foundation report published in July 2023 uses similar analysis to understand the future patterns of illness in the population in England. This report (*Health in 2040: projected patterns of illness in England*, by T. Watt and co-authors) can be read [here](health.org.uk/publications/health-in-2040).
 
 ## Authors
-* Jay Hughes - Twitter/X - [GitHub](https://github.com/Jay-ops256)
+* Jay Hughes - [GitHub](https://github.com/Jay-ops256)
 * Laurie Rachet-Jacquet - Twitter/X - GitHub
 * Ann Raymond - Twitter/X - GitHub
 
