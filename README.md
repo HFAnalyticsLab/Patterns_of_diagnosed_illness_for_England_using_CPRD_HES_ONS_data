@@ -19,14 +19,15 @@ The list of conditions has been developed to match the 20 principal conditions u
 
 ## How does it work?
 
-The panel can be created by running the master script ('_master_script.R') which sources all scripts from 5 different stages: 
+The scripts shared can be run in numerical order and act on flat text files for CPRD, HES and ONS data. The main processes are carried out in the dual numbered scripts (00, 01, etc) and the others are usually called from within these (with exception of 00.1 & 00.2). Below is a description of what each script does:
 
-1. A few scripts at the start allow to define the clinical conditions to be identify in the panel and to set up the structure of the panel.
-'00.0_file_locations.R' lists locations of folders to be set based on your system.
-'00.1_cprd_processing.R' Xx
-'00.2_linked_hes_processing.R' XX
-
-2. Script '01_clean_files.R' saves all CRPD and HES files as parquet files and clean the raw data files based on cleaning rules defined in the master script. These can be amended by a system of flags (TRUE/FALSE) for each cleaning rule.
+* The scripts at the start marked 00 perform project preperation by loading libraries, and variables used in the rest of the analysis. They define the clinical conditions to be identify in the panel and to set up the structure of the panel.
+  + `00_project_setup.R` sets the base variables and functions used throughout the project and creates patient cohorts (As the sample is too large to process at once)
+  + `00.0_file_locations.R` lists locations of files and data to be set based on your system (we used s3 locations in an AWS enivronment)
+  + `00.1_cprd_processing.R` processes the CPRD flat files into an arrow dataset using the aurumpipeline package (perform first and only once)
+  + `00.2_linked_hes_processing.R` processes the HES flat files in the same way as above (perform first and only once - note this uses the aurumpipeline as well as the data is linked and supplied by CRPD)
+  + `00.3_conditions_lookup.R` loads in our required codelists for CPRD (snomed) and HES (ICD10) and combines for later use
+* Script '01_clean_files.R' saves all CRPD and HES files as parquet files and clean the raw data files based on cleaning rules defined in the master script. These can be amended by a system of flags (TRUE/FALSE) for each cleaning rule.
 
 3. Script '02_patient.R' collates the patient socio-economic characteristics from CPRD and linked HES datasets.
 
