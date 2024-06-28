@@ -6,6 +6,8 @@
 .RData
 .RDataTmp
 *.csv
+!cprd_codes.csv
+!hes_codes.csv
 *.sqlite
 *.log*
 
