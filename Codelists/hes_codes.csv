@@ -1,0 +1,1423 @@
+ICD10code,list_disease_real,disease_duration
+E24.4,Alcohol problems,365
+F10.1,Alcohol problems,365
+F10.2,Alcohol problems,365
+F10.3,Alcohol problems,365
+F10.4,Alcohol problems,365
+F10.5,Alcohol problems,365
+F10.6,Alcohol problems,365
+F10.7,Alcohol problems,365
+F10.8,Alcohol problems,365
+F10.9,Alcohol problems,365
+G31.2,Alcohol problems,365
+G62.1,Alcohol problems,365
+G72.1,Alcohol problems,365
+I42.6,Alcohol problems,365
+K29.2,Alcohol problems,365
+K85.2,Alcohol problems,365
+K86.0,Alcohol problems,365
+Z50.2,Alcohol problems,365
+Z71.4,Alcohol problems,365
+NA,Other alcohol problems,365
+K70.0,Chronic liver disease,9999999
+K70.1,Chronic liver disease,9999999
+K70.2,Chronic liver disease,9999999
+K70.3,Chronic liver disease,9999999
+K70.4,Chronic liver disease,9999999
+K70.5,Chronic liver disease,9999999
+K70.6,Chronic liver disease,9999999
+K70.7,Chronic liver disease,9999999
+K70.8,Chronic liver disease,9999999
+K70.9,Chronic liver disease,9999999
+K70,Chronic liver disease,9999999
+K74.3,Chronic liver disease,9999999
+K75.4,Chronic liver disease,9999999
+K75.8,Chronic liver disease,9999999
+K76.0,Chronic liver disease,9999999
+B15.0,Chronic liver disease,9999999
+B16.0,Chronic liver disease,9999999
+B19.0,Chronic liver disease,9999999
+K71.1,Chronic liver disease,9999999
+K72.0,Chronic liver disease,9999999
+K72.1,Chronic liver disease,9999999
+K72.2,Chronic liver disease,9999999
+K72.3,Chronic liver disease,9999999
+K72.4,Chronic liver disease,9999999
+K72.5,Chronic liver disease,9999999
+K72.6,Chronic liver disease,9999999
+K72.7,Chronic liver disease,9999999
+K72.8,Chronic liver disease,9999999
+K72.9,Chronic liver disease,9999999
+K72,Chronic liver disease,9999999
+K76.2,Chronic liver disease,9999999
+K76.3,Chronic liver disease,9999999
+F40.0,Anxiety,365
+F40.1,Anxiety,365
+F40.2,Anxiety,365
+F40.3,Anxiety,365
+F40.4,Anxiety,365
+F40.5,Anxiety,365
+F40.6,Anxiety,365
+F40.7,Anxiety,365
+F40.8,Anxiety,365
+F40.9,Anxiety,365
+F40,Anxiety,365
+F41.0,Anxiety,365
+F41.1,Anxiety,365
+F41.2,Anxiety,365
+F41.3,Anxiety,365
+F41.4,Anxiety,365
+F41.5,Anxiety,365
+F41.6,Anxiety,365
+F41.7,Anxiety,365
+F41.8,Anxiety,365
+F41.9,Anxiety,365
+F41,Anxiety,365
+F40.0,Depression_anxiety,365
+F40.1,Depression_anxiety,365
+F40.2,Depression_anxiety,365
+F40.3,Depression_anxiety,365
+F40.4,Depression_anxiety,365
+F40.5,Depression_anxiety,365
+F40.6,Depression_anxiety,365
+F40.7,Depression_anxiety,365
+F40.8,Depression_anxiety,365
+F40.9,Depression_anxiety,365
+F40,Depression_anxiety,365
+F41.0,Depression_anxiety,365
+F41.1,Depression_anxiety,365
+F41.2,Depression_anxiety,365
+F41.3,Depression_anxiety,365
+F41.4,Depression_anxiety,365
+F41.5,Depression_anxiety,365
+F41.6,Depression_anxiety,365
+F41.7,Depression_anxiety,365
+F41.8,Depression_anxiety,365
+F41.9,Depression_anxiety,365
+F41,Depression_anxiety,365
+F32.0,Depression_anxiety,365
+F32.1,Depression_anxiety,365
+F32.2,Depression_anxiety,365
+F32.3,Depression_anxiety,365
+F32.4,Depression_anxiety,365
+F32.5,Depression_anxiety,365
+F32.6,Depression_anxiety,365
+F32.7,Depression_anxiety,365
+F32.8,Depression_anxiety,365
+F32.9,Depression_anxiety,365
+F32,Depression_anxiety,365
+F33.0,Depression_anxiety,365
+F33.1,Depression_anxiety,365
+F33.2,Depression_anxiety,365
+F33.3,Depression_anxiety,365
+F33.4,Depression_anxiety,365
+F33.5,Depression_anxiety,365
+F33.6,Depression_anxiety,365
+F33.7,Depression_anxiety,365
+F33.8,Depression_anxiety,365
+F33.9,Depression_anxiety,365
+F33,Depression_anxiety,365
+J45.0,Asthma,365
+J45.1,Asthma,365
+J45.2,Asthma,365
+J45.3,Asthma,365
+J45.4,Asthma,365
+J45.5,Asthma,365
+J45.6,Asthma,365
+J45.7,Asthma,365
+J45.8,Asthma,365
+J45.9,Asthma,365
+J45,Asthma,365
+J46.0,Asthma,365
+J46.1,Asthma,365
+J46.2,Asthma,365
+J46.3,Asthma,365
+J46.4,Asthma,365
+J46.5,Asthma,365
+J46.6,Asthma,365
+J46.7,Asthma,365
+J46.8,Asthma,365
+J46.9,Asthma,365
+J46,Asthma,365
+I48.0,Atrial fibrillation,9999999
+I48.1,Atrial fibrillation,9999999
+I48.2,Atrial fibrillation,9999999
+I48.3,Atrial fibrillation,9999999
+I48.4,Atrial fibrillation,9999999
+I48.5,Atrial fibrillation,9999999
+I48.6,Atrial fibrillation,9999999
+I48.7,Atrial fibrillation,9999999
+I48.8,Atrial fibrillation,9999999
+I48.9,Atrial fibrillation,9999999
+I48,Atrial fibrillation,9999999
+F30.0,Psychosis,9999999
+F30.1,Psychosis,9999999
+F30.2,Psychosis,9999999
+F30.3,Psychosis,9999999
+F30.4,Psychosis,9999999
+F30.5,Psychosis,9999999
+F30.6,Psychosis,9999999
+F30.7,Psychosis,9999999
+F30.8,Psychosis,9999999
+F30.9,Psychosis,9999999
+F30,Psychosis,9999999
+F31.0,Psychosis,9999999
+F31.1,Psychosis,9999999
+F31.2,Psychosis,9999999
+F31.3,Psychosis,9999999
+F31.4,Psychosis,9999999
+F31.5,Psychosis,9999999
+F31.6,Psychosis,9999999
+F31.7,Psychosis,9999999
+F31.8,Psychosis,9999999
+F31.9,Psychosis,9999999
+F31,Psychosis,9999999
+J40.0,COPD,9999999
+J40.1,COPD,9999999
+J40.2,COPD,9999999
+J40.3,COPD,9999999
+J40.4,COPD,9999999
+J40.5,COPD,9999999
+J40.6,COPD,9999999
+J40.7,COPD,9999999
+J40.8,COPD,9999999
+J40.9,COPD,9999999
+J40,COPD,9999999
+J41.0,COPD,9999999
+J41.1,COPD,9999999
+J41.2,COPD,9999999
+J41.3,COPD,9999999
+J41.4,COPD,9999999
+J41.5,COPD,9999999
+J41.6,COPD,9999999
+J41.7,COPD,9999999
+J41.8,COPD,9999999
+J41.9,COPD,9999999
+J41,COPD,9999999
+J42.0,COPD,9999999
+J42.1,COPD,9999999
+J42.2,COPD,9999999
+J42.3,COPD,9999999
+J42.4,COPD,9999999
+J42.5,COPD,9999999
+J42.6,COPD,9999999
+J42.7,COPD,9999999
+J42.8,COPD,9999999
+J42.9,COPD,9999999
+J42,COPD,9999999
+J43.0,COPD,9999999
+J43.1,COPD,9999999
+J43.2,COPD,9999999
+J43.3,COPD,9999999
+J43.4,COPD,9999999
+J43.5,COPD,9999999
+J43.6,COPD,9999999
+J43.7,COPD,9999999
+J43.8,COPD,9999999
+J43.9,COPD,9999999
+J43,COPD,9999999
+J44.0,COPD,9999999
+J44.1,COPD,9999999
+J44.2,COPD,9999999
+J44.3,COPD,9999999
+J44.4,COPD,9999999
+J44.5,COPD,9999999
+J44.6,COPD,9999999
+J44.7,COPD,9999999
+J44.8,COPD,9999999
+J44.9,COPD,9999999
+J44,COPD,9999999
+N16.5,Chronic kidney disease,9999999
+N18.5,Chronic kidney disease,9999999
+T82.4,Chronic kidney disease,9999999
+T86.1,Chronic kidney disease,9999999
+Y60.2,Chronic kidney disease,9999999
+Y61.2,Chronic kidney disease,9999999
+Y84.1,Chronic kidney disease,9999999
+Z49.1,Chronic kidney disease,9999999
+Z49.2,Chronic kidney disease,9999999
+Z94.0,Chronic kidney disease,9999999
+Z99.2,Chronic kidney disease,9999999
+I42.0,Coronary heart disease,9999999
+I42.6,Coronary heart disease,9999999
+I21.0,Coronary heart disease,9999999
+I21.1,Coronary heart disease,9999999
+I21.2,Coronary heart disease,9999999
+I21.3,Coronary heart disease,9999999
+I21.4,Coronary heart disease,9999999
+I21.5,Coronary heart disease,9999999
+I21.6,Coronary heart disease,9999999
+I21.7,Coronary heart disease,9999999
+I21.8,Coronary heart disease,9999999
+I21.9,Coronary heart disease,9999999
+I21,Coronary heart disease,9999999
+I22.0,Coronary heart disease,9999999
+I22.1,Coronary heart disease,9999999
+I22.2,Coronary heart disease,9999999
+I22.3,Coronary heart disease,9999999
+I22.4,Coronary heart disease,9999999
+I22.5,Coronary heart disease,9999999
+I22.6,Coronary heart disease,9999999
+I22.7,Coronary heart disease,9999999
+I22.8,Coronary heart disease,9999999
+I22.9,Coronary heart disease,9999999
+I22,Coronary heart disease,9999999
+I23.0,Coronary heart disease,9999999
+I23.1,Coronary heart disease,9999999
+I23.2,Coronary heart disease,9999999
+I23.3,Coronary heart disease,9999999
+I23.4,Coronary heart disease,9999999
+I23.5,Coronary heart disease,9999999
+I23.6,Coronary heart disease,9999999
+I23.7,Coronary heart disease,9999999
+I23.8,Coronary heart disease,9999999
+I23.9,Coronary heart disease,9999999
+I23,Coronary heart disease,9999999
+I241,Coronary heart disease,9999999
+I252,Coronary heart disease,9999999
+I20.1,Coronary heart disease,9999999
+I20.8,Coronary heart disease,9999999
+I20.9,Coronary heart disease,9999999
+I20.0,Coronary heart disease,9999999
+F00.0,Dementia,9999999
+F00.1,Dementia,9999999
+F00.2,Dementia,9999999
+F00.3,Dementia,9999999
+F00.4,Dementia,9999999
+F00.5,Dementia,9999999
+F00.6,Dementia,9999999
+F00.7,Dementia,9999999
+F00.8,Dementia,9999999
+F00.9,Dementia,9999999
+F00,Dementia,9999999
+F01.0,Dementia,9999999
+F01.1,Dementia,9999999
+F01.2,Dementia,9999999
+F01.3,Dementia,9999999
+F01.4,Dementia,9999999
+F01.5,Dementia,9999999
+F01.6,Dementia,9999999
+F01.7,Dementia,9999999
+F01.8,Dementia,9999999
+F01.9,Dementia,9999999
+F01,Dementia,9999999
+F03.0,Dementia,9999999
+F03.1,Dementia,9999999
+F03.2,Dementia,9999999
+F03.3,Dementia,9999999
+F03.4,Dementia,9999999
+F03.5,Dementia,9999999
+F03.6,Dementia,9999999
+F03.7,Dementia,9999999
+F03.8,Dementia,9999999
+F03.9,Dementia,9999999
+F03,Dementia,9999999
+F05.1,Dementia,9999999
+G30.0,Dementia,9999999
+G30.1,Dementia,9999999
+G30.2,Dementia,9999999
+G30.3,Dementia,9999999
+G30.4,Dementia,9999999
+G30.5,Dementia,9999999
+G30.6,Dementia,9999999
+G30.7,Dementia,9999999
+G30.8,Dementia,9999999
+G30.9,Dementia,9999999
+G30,Dementia,9999999
+F32.0,Depression,365
+F32.1,Depression,365
+F32.2,Depression,365
+F32.3,Depression,365
+F32.4,Depression,365
+F32.5,Depression,365
+F32.6,Depression,365
+F32.7,Depression,365
+F32.8,Depression,365
+F32.9,Depression,365
+F32,Depression,365
+F33.0,Depression,365
+F33.1,Depression,365
+F33.2,Depression,365
+F33.3,Depression,365
+F33.4,Depression,365
+F33.5,Depression,365
+F33.6,Depression,365
+F33.7,Depression,365
+F33.8,Depression,365
+F33.9,Depression,365
+F33,Depression,365
+E10.0,Diabetes excl Type 2,9999999
+E10.1,Diabetes excl Type 2,9999999
+E10.2,Diabetes excl Type 2,9999999
+E10.3,Diabetes excl Type 2,9999999
+E10.4,Diabetes excl Type 2,9999999
+E10.5,Diabetes excl Type 2,9999999
+E10.6,Diabetes excl Type 2,9999999
+E10.7,Diabetes excl Type 2,9999999
+E10.8,Diabetes excl Type 2,9999999
+E10.9,Diabetes excl Type 2,9999999
+E10,Diabetes excl Type 2,9999999
+E12.0,Diabetes excl Type 2,9999999
+E12.1,Diabetes excl Type 2,9999999
+E12.2,Diabetes excl Type 2,9999999
+E12.3,Diabetes excl Type 2,9999999
+E12.4,Diabetes excl Type 2,9999999
+E12.5,Diabetes excl Type 2,9999999
+E12.6,Diabetes excl Type 2,9999999
+E12.7,Diabetes excl Type 2,9999999
+E12.8,Diabetes excl Type 2,9999999
+E12.9,Diabetes excl Type 2,9999999
+E12,Diabetes excl Type 2,9999999
+E13.0,Diabetes excl Type 2,9999999
+E13.1,Diabetes excl Type 2,9999999
+E13.2,Diabetes excl Type 2,9999999
+E13.3,Diabetes excl Type 2,9999999
+E13.4,Diabetes excl Type 2,9999999
+E13.5,Diabetes excl Type 2,9999999
+E13.6,Diabetes excl Type 2,9999999
+E13.7,Diabetes excl Type 2,9999999
+E13.8,Diabetes excl Type 2,9999999
+E13.9,Diabetes excl Type 2,9999999
+E13,Diabetes excl Type 2,9999999
+E14.0,Diabetes excl Type 2,9999999
+E14.1,Diabetes excl Type 2,9999999
+E14.2,Diabetes excl Type 2,9999999
+E14.3,Diabetes excl Type 2,9999999
+E14.4,Diabetes excl Type 2,9999999
+E14.5,Diabetes excl Type 2,9999999
+E14.6,Diabetes excl Type 2,9999999
+E14.7,Diabetes excl Type 2,9999999
+E14.8,Diabetes excl Type 2,9999999
+E14.9,Diabetes excl Type 2,9999999
+E14,Diabetes excl Type 2,9999999
+G590,Diabetes excl Type 2,9999999
+G632,Diabetes excl Type 2,9999999
+H280,Diabetes excl Type 2,9999999
+H360,Diabetes excl Type 2,9999999
+M142,Diabetes excl Type 2,9999999
+N083,Diabetes excl Type 2,9999999
+O240,Diabetes excl Type 2,9999999
+O241,Diabetes excl Type 2,9999999
+O242,Diabetes excl Type 2,9999999
+O243,Diabetes excl Type 2,9999999
+E10.0,Diabetes,9999999
+E10.1,Diabetes,9999999
+E10.2,Diabetes,9999999
+E10.3,Diabetes,9999999
+E10.4,Diabetes,9999999
+E10.5,Diabetes,9999999
+E10.6,Diabetes,9999999
+E10.7,Diabetes,9999999
+E10.8,Diabetes,9999999
+E10.9,Diabetes,9999999
+E10,Diabetes,9999999
+E12.0,Diabetes,9999999
+E12.1,Diabetes,9999999
+E12.2,Diabetes,9999999
+E12.3,Diabetes,9999999
+E12.4,Diabetes,9999999
+E12.5,Diabetes,9999999
+E12.6,Diabetes,9999999
+E12.7,Diabetes,9999999
+E12.8,Diabetes,9999999
+E12.9,Diabetes,9999999
+E12,Diabetes,9999999
+E13.0,Diabetes,9999999
+E13.1,Diabetes,9999999
+E13.2,Diabetes,9999999
+E13.3,Diabetes,9999999
+E13.4,Diabetes,9999999
+E13.5,Diabetes,9999999
+E13.6,Diabetes,9999999
+E13.7,Diabetes,9999999
+E13.8,Diabetes,9999999
+E13.9,Diabetes,9999999
+E13,Diabetes,9999999
+E14.0,Diabetes,9999999
+E14.1,Diabetes,9999999
+E14.2,Diabetes,9999999
+E14.3,Diabetes,9999999
+E14.4,Diabetes,9999999
+E14.5,Diabetes,9999999
+E14.6,Diabetes,9999999
+E14.7,Diabetes,9999999
+E14.8,Diabetes,9999999
+E14.9,Diabetes,9999999
+E14,Diabetes,9999999
+G590,Diabetes,9999999
+G632,Diabetes,9999999
+H280,Diabetes,9999999
+H360,Diabetes,9999999
+M142,Diabetes,9999999
+N083,Diabetes,9999999
+O240,Diabetes,9999999
+O241,Diabetes,9999999
+O242,Diabetes,9999999
+O243,Diabetes,9999999
+E11.0,Diabetes,9999999
+E11.1,Diabetes,9999999
+E11.2,Diabetes,9999999
+E11.3,Diabetes,9999999
+E11.4,Diabetes,9999999
+E11.5,Diabetes,9999999
+E11.6,Diabetes,9999999
+E11.7,Diabetes,9999999
+E11.8,Diabetes,9999999
+E11.9,Diabetes,9999999
+E11,Diabetes,9999999
+E11.0,Diabetes Type 2,9999999
+E11.1,Diabetes Type 2,9999999
+E11.2,Diabetes Type 2,9999999
+E11.3,Diabetes Type 2,9999999
+E11.4,Diabetes Type 2,9999999
+E11.5,Diabetes Type 2,9999999
+E11.6,Diabetes Type 2,9999999
+E11.7,Diabetes Type 2,9999999
+E11.8,Diabetes Type 2,9999999
+E11.9,Diabetes Type 2,9999999
+E11,Diabetes Type 2,9999999
+G40.0,Epilepsy,9999999
+G40.1,Epilepsy,9999999
+G40.2,Epilepsy,9999999
+G40.3,Epilepsy,9999999
+G40.4,Epilepsy,9999999
+G40.5,Epilepsy,9999999
+G40.6,Epilepsy,9999999
+G40.7,Epilepsy,9999999
+G40.8,Epilepsy,9999999
+G40.9,Epilepsy,9999999
+G40,Epilepsy,9999999
+G41.0,Epilepsy,9999999
+G41.1,Epilepsy,9999999
+G41.2,Epilepsy,9999999
+G41.3,Epilepsy,9999999
+G41.4,Epilepsy,9999999
+G41.5,Epilepsy,9999999
+G41.6,Epilepsy,9999999
+G41.7,Epilepsy,9999999
+G41.8,Epilepsy,9999999
+G41.9,Epilepsy,9999999
+G41,Epilepsy,9999999
+H90.0,Hearing loss,9999999
+H90.1,Hearing loss,9999999
+H90.2,Hearing loss,9999999
+H90.3,Hearing loss,9999999
+H90.4,Hearing loss,9999999
+H90.5,Hearing loss,9999999
+H90.6,Hearing loss,9999999
+H90.7,Hearing loss,9999999
+H90.8,Hearing loss,9999999
+H90.9,Hearing loss,9999999
+H90,Hearing loss,9999999
+H91.0,Hearing loss,9999999
+H91.1,Hearing loss,9999999
+H91.2,Hearing loss,9999999
+H91.3,Hearing loss,9999999
+H91.4,Hearing loss,9999999
+H91.5,Hearing loss,9999999
+H91.6,Hearing loss,9999999
+H91.7,Hearing loss,9999999
+H91.8,Hearing loss,9999999
+H91.9,Hearing loss,9999999
+H91,Hearing loss,9999999
+Z45.3,Hearing loss,9999999
+Z46.1,Hearing loss,9999999
+Z97.4,Hearing loss,9999999
+I11.0,Heart failure,9999999
+I13.0,Heart failure,9999999
+I13.2,Heart failure,9999999
+I50.0,Heart failure,9999999
+I50.1,Heart failure,9999999
+I50.2,Heart failure,9999999
+I50.3,Heart failure,9999999
+I50.4,Heart failure,9999999
+I50.5,Heart failure,9999999
+I50.6,Heart failure,9999999
+I50.7,Heart failure,9999999
+I50.8,Heart failure,9999999
+I50.9,Heart failure,9999999
+I50,Heart failure,9999999
+C81.0,Other cancer,1826.25
+C81.1,Other cancer,1826.25
+C81.2,Other cancer,1826.25
+C81.3,Other cancer,1826.25
+C81.4,Other cancer,1826.25
+C81.5,Other cancer,1826.25
+C81.6,Other cancer,1826.25
+C81.7,Other cancer,1826.25
+C81.8,Other cancer,1826.25
+C81.9,Other cancer,1826.25
+C81,Other cancer,1826.25
+C91.0,Other cancer,1826.25
+C91.1,Other cancer,1826.25
+C91.2,Other cancer,1826.25
+C91.3,Other cancer,1826.25
+C91.4,Other cancer,1826.25
+C91.5,Other cancer,1826.25
+C91.6,Other cancer,1826.25
+C91.7,Other cancer,1826.25
+C91.8,Other cancer,1826.25
+C91.9,Other cancer,1826.25
+C91,Other cancer,1826.25
+C92.0,Other cancer,1826.25
+C92.1,Other cancer,1826.25
+C92.2,Other cancer,1826.25
+C92.3,Other cancer,1826.25
+C92.4,Other cancer,1826.25
+C92.5,Other cancer,1826.25
+C92.6,Other cancer,1826.25
+C92.7,Other cancer,1826.25
+C92.8,Other cancer,1826.25
+C92.9,Other cancer,1826.25
+C92,Other cancer,1826.25
+C93.0,Other cancer,1826.25
+C93.1,Other cancer,1826.25
+C93.2,Other cancer,1826.25
+C93.3,Other cancer,1826.25
+C93.4,Other cancer,1826.25
+C93.5,Other cancer,1826.25
+C93.6,Other cancer,1826.25
+C93.7,Other cancer,1826.25
+C93.8,Other cancer,1826.25
+C93.9,Other cancer,1826.25
+C93,Other cancer,1826.25
+C94.0,Other cancer,1826.25
+C94.1,Other cancer,1826.25
+C94.2,Other cancer,1826.25
+C94.3,Other cancer,1826.25
+C94.4,Other cancer,1826.25
+C94.5,Other cancer,1826.25
+C94.6,Other cancer,1826.25
+C94.7,Other cancer,1826.25
+C94.8,Other cancer,1826.25
+C94.9,Other cancer,1826.25
+C94,Other cancer,1826.25
+C95.0,Other cancer,1826.25
+C95.1,Other cancer,1826.25
+C95.2,Other cancer,1826.25
+C95.3,Other cancer,1826.25
+C95.4,Other cancer,1826.25
+C95.5,Other cancer,1826.25
+C95.6,Other cancer,1826.25
+C95.7,Other cancer,1826.25
+C95.8,Other cancer,1826.25
+C95.9,Other cancer,1826.25
+C95,Other cancer,1826.25
+C82.0,Other cancer,1826.25
+C82.1,Other cancer,1826.25
+C82.2,Other cancer,1826.25
+C82.3,Other cancer,1826.25
+C82.4,Other cancer,1826.25
+C82.5,Other cancer,1826.25
+C82.6,Other cancer,1826.25
+C82.7,Other cancer,1826.25
+C82.8,Other cancer,1826.25
+C82.9,Other cancer,1826.25
+C82,Other cancer,1826.25
+C83.0,Other cancer,1826.25
+C83.1,Other cancer,1826.25
+C83.2,Other cancer,1826.25
+C83.3,Other cancer,1826.25
+C83.4,Other cancer,1826.25
+C83.5,Other cancer,1826.25
+C83.6,Other cancer,1826.25
+C83.7,Other cancer,1826.25
+C83.8,Other cancer,1826.25
+C83.9,Other cancer,1826.25
+C83,Other cancer,1826.25
+C84.0,Other cancer,1826.25
+C84.1,Other cancer,1826.25
+C84.2,Other cancer,1826.25
+C84.3,Other cancer,1826.25
+C84.4,Other cancer,1826.25
+C84.5,Other cancer,1826.25
+C84.6,Other cancer,1826.25
+C84.7,Other cancer,1826.25
+C84.8,Other cancer,1826.25
+C84.9,Other cancer,1826.25
+C84,Other cancer,1826.25
+C85.0,Other cancer,1826.25
+C85.1,Other cancer,1826.25
+C85.2,Other cancer,1826.25
+C85.3,Other cancer,1826.25
+C85.4,Other cancer,1826.25
+C85.5,Other cancer,1826.25
+C85.6,Other cancer,1826.25
+C85.7,Other cancer,1826.25
+C85.8,Other cancer,1826.25
+C85.9,Other cancer,1826.25
+C85,Other cancer,1826.25
+C86.0,Other cancer,1826.25
+C86.1,Other cancer,1826.25
+C86.2,Other cancer,1826.25
+C86.3,Other cancer,1826.25
+C86.4,Other cancer,1826.25
+C86.5,Other cancer,1826.25
+C86.6,Other cancer,1826.25
+C86.7,Other cancer,1826.25
+C86.8,Other cancer,1826.25
+C86.9,Other cancer,1826.25
+C86,Other cancer,1826.25
+D45.0,Other cancer,1826.25
+D45.1,Other cancer,1826.25
+D45.2,Other cancer,1826.25
+D45.3,Other cancer,1826.25
+D45.4,Other cancer,1826.25
+D45.5,Other cancer,1826.25
+D45.6,Other cancer,1826.25
+D45.7,Other cancer,1826.25
+D45.8,Other cancer,1826.25
+D45.9,Other cancer,1826.25
+D45,Other cancer,1826.25
+C22.1,Other cancer,1826.25
+C24.0,Other cancer,1826.25
+C24.1,Other cancer,1826.25
+C24.2,Other cancer,1826.25
+C24.3,Other cancer,1826.25
+C24.4,Other cancer,1826.25
+C24.5,Other cancer,1826.25
+C24.6,Other cancer,1826.25
+C24.7,Other cancer,1826.25
+C24.8,Other cancer,1826.25
+C24.9,Other cancer,1826.25
+C24,Other cancer,1826.25
+C67.0,Other cancer,1826.25
+C67.1,Other cancer,1826.25
+C67.2,Other cancer,1826.25
+C67.3,Other cancer,1826.25
+C67.4,Other cancer,1826.25
+C67.5,Other cancer,1826.25
+C67.6,Other cancer,1826.25
+C67.7,Other cancer,1826.25
+C67.8,Other cancer,1826.25
+C67.9,Other cancer,1826.25
+C67,Other cancer,1826.25
+C22.0,Other cancer,1826.25
+C22.2,Other cancer,1826.25
+C22.3,Other cancer,1826.25
+C22.4,Other cancer,1826.25
+C22.7,Other cancer,1826.25
+C22.9,Other cancer,1826.25
+C45.0,Other cancer,1826.25
+C45.1,Other cancer,1826.25
+C45.2,Other cancer,1826.25
+C45.3,Other cancer,1826.25
+C45.4,Other cancer,1826.25
+C45.5,Other cancer,1826.25
+C45.6,Other cancer,1826.25
+C45.7,Other cancer,1826.25
+C45.8,Other cancer,1826.25
+C45.9,Other cancer,1826.25
+C45,Other cancer,1826.25
+C15.0,Other cancer,1826.25
+C15.1,Other cancer,1826.25
+C15.2,Other cancer,1826.25
+C15.3,Other cancer,1826.25
+C15.4,Other cancer,1826.25
+C15.5,Other cancer,1826.25
+C15.6,Other cancer,1826.25
+C15.7,Other cancer,1826.25
+C15.8,Other cancer,1826.25
+C15.9,Other cancer,1826.25
+C15,Other cancer,1826.25
+C16.0,Other cancer,1826.25
+C16.1,Other cancer,1826.25
+C16.2,Other cancer,1826.25
+C16.3,Other cancer,1826.25
+C16.4,Other cancer,1826.25
+C16.5,Other cancer,1826.25
+C16.6,Other cancer,1826.25
+C16.7,Other cancer,1826.25
+C16.8,Other cancer,1826.25
+C16.9,Other cancer,1826.25
+C16,Other cancer,1826.25
+C73.0,Other cancer,1826.25
+C73.1,Other cancer,1826.25
+C73.2,Other cancer,1826.25
+C73.3,Other cancer,1826.25
+C73.4,Other cancer,1826.25
+C73.5,Other cancer,1826.25
+C73.6,Other cancer,1826.25
+C73.7,Other cancer,1826.25
+C73.8,Other cancer,1826.25
+C73.9,Other cancer,1826.25
+C73,Other cancer,1826.25
+C79.7,Other cancer,1826.25
+C79.5,Other cancer,1826.25
+C78.4,Other cancer,1826.25
+C78.5,Other cancer,1826.25
+C78.0,Other cancer,1826.25
+C77.0,Other cancer,1826.25
+C77.1,Other cancer,1826.25
+C77.2,Other cancer,1826.25
+C77.3,Other cancer,1826.25
+C77.4,Other cancer,1826.25
+C77.5,Other cancer,1826.25
+C77.6,Other cancer,1826.25
+C77.7,Other cancer,1826.25
+C77.8,Other cancer,1826.25
+C77.9,Other cancer,1826.25
+C77,Other cancer,1826.25
+C78.2,Other cancer,1826.25
+C81.0,All cancers,1826.25
+C81.1,All cancers,1826.25
+C81.2,All cancers,1826.25
+C81.3,All cancers,1826.25
+C81.4,All cancers,1826.25
+C81.5,All cancers,1826.25
+C81.6,All cancers,1826.25
+C81.7,All cancers,1826.25
+C81.8,All cancers,1826.25
+C81.9,All cancers,1826.25
+C81,All cancers,1826.25
+C91.0,All cancers,1826.25
+C91.1,All cancers,1826.25
+C91.2,All cancers,1826.25
+C91.3,All cancers,1826.25
+C91.4,All cancers,1826.25
+C91.5,All cancers,1826.25
+C91.6,All cancers,1826.25
+C91.7,All cancers,1826.25
+C91.8,All cancers,1826.25
+C91.9,All cancers,1826.25
+C91,All cancers,1826.25
+C92.0,All cancers,1826.25
+C92.1,All cancers,1826.25
+C92.2,All cancers,1826.25
+C92.3,All cancers,1826.25
+C92.4,All cancers,1826.25
+C92.5,All cancers,1826.25
+C92.6,All cancers,1826.25
+C92.7,All cancers,1826.25
+C92.8,All cancers,1826.25
+C92.9,All cancers,1826.25
+C92,All cancers,1826.25
+C93.0,All cancers,1826.25
+C93.1,All cancers,1826.25
+C93.2,All cancers,1826.25
+C93.3,All cancers,1826.25
+C93.4,All cancers,1826.25
+C93.5,All cancers,1826.25
+C93.6,All cancers,1826.25
+C93.7,All cancers,1826.25
+C93.8,All cancers,1826.25
+C93.9,All cancers,1826.25
+C93,All cancers,1826.25
+C94.0,All cancers,1826.25
+C94.1,All cancers,1826.25
+C94.2,All cancers,1826.25
+C94.3,All cancers,1826.25
+C94.4,All cancers,1826.25
+C94.5,All cancers,1826.25
+C94.6,All cancers,1826.25
+C94.7,All cancers,1826.25
+C94.8,All cancers,1826.25
+C94.9,All cancers,1826.25
+C94,All cancers,1826.25
+C95.0,All cancers,1826.25
+C95.1,All cancers,1826.25
+C95.2,All cancers,1826.25
+C95.3,All cancers,1826.25
+C95.4,All cancers,1826.25
+C95.5,All cancers,1826.25
+C95.6,All cancers,1826.25
+C95.7,All cancers,1826.25
+C95.8,All cancers,1826.25
+C95.9,All cancers,1826.25
+C95,All cancers,1826.25
+C82.0,All cancers,1826.25
+C82.1,All cancers,1826.25
+C82.2,All cancers,1826.25
+C82.3,All cancers,1826.25
+C82.4,All cancers,1826.25
+C82.5,All cancers,1826.25
+C82.6,All cancers,1826.25
+C82.7,All cancers,1826.25
+C82.8,All cancers,1826.25
+C82.9,All cancers,1826.25
+C82,All cancers,1826.25
+C83.0,All cancers,1826.25
+C83.1,All cancers,1826.25
+C83.2,All cancers,1826.25
+C83.3,All cancers,1826.25
+C83.4,All cancers,1826.25
+C83.5,All cancers,1826.25
+C83.6,All cancers,1826.25
+C83.7,All cancers,1826.25
+C83.8,All cancers,1826.25
+C83.9,All cancers,1826.25
+C83,All cancers,1826.25
+C84.0,All cancers,1826.25
+C84.1,All cancers,1826.25
+C84.2,All cancers,1826.25
+C84.3,All cancers,1826.25
+C84.4,All cancers,1826.25
+C84.5,All cancers,1826.25
+C84.6,All cancers,1826.25
+C84.7,All cancers,1826.25
+C84.8,All cancers,1826.25
+C84.9,All cancers,1826.25
+C84,All cancers,1826.25
+C85.0,All cancers,1826.25
+C85.1,All cancers,1826.25
+C85.2,All cancers,1826.25
+C85.3,All cancers,1826.25
+C85.4,All cancers,1826.25
+C85.5,All cancers,1826.25
+C85.6,All cancers,1826.25
+C85.7,All cancers,1826.25
+C85.8,All cancers,1826.25
+C85.9,All cancers,1826.25
+C85,All cancers,1826.25
+C86.0,All cancers,1826.25
+C86.1,All cancers,1826.25
+C86.2,All cancers,1826.25
+C86.3,All cancers,1826.25
+C86.4,All cancers,1826.25
+C86.5,All cancers,1826.25
+C86.6,All cancers,1826.25
+C86.7,All cancers,1826.25
+C86.8,All cancers,1826.25
+C86.9,All cancers,1826.25
+C86,All cancers,1826.25
+D45.0,All cancers,1826.25
+D45.1,All cancers,1826.25
+D45.2,All cancers,1826.25
+D45.3,All cancers,1826.25
+D45.4,All cancers,1826.25
+D45.5,All cancers,1826.25
+D45.6,All cancers,1826.25
+D45.7,All cancers,1826.25
+D45.8,All cancers,1826.25
+D45.9,All cancers,1826.25
+D45,All cancers,1826.25
+C22.1,All cancers,1826.25
+C24.0,All cancers,1826.25
+C24.1,All cancers,1826.25
+C24.2,All cancers,1826.25
+C24.3,All cancers,1826.25
+C24.4,All cancers,1826.25
+C24.5,All cancers,1826.25
+C24.6,All cancers,1826.25
+C24.7,All cancers,1826.25
+C24.8,All cancers,1826.25
+C24.9,All cancers,1826.25
+C24,All cancers,1826.25
+C67.0,All cancers,1826.25
+C67.1,All cancers,1826.25
+C67.2,All cancers,1826.25
+C67.3,All cancers,1826.25
+C67.4,All cancers,1826.25
+C67.5,All cancers,1826.25
+C67.6,All cancers,1826.25
+C67.7,All cancers,1826.25
+C67.8,All cancers,1826.25
+C67.9,All cancers,1826.25
+C67,All cancers,1826.25
+C18.0,All cancers,1826.25
+C18.1,All cancers,1826.25
+C18.2,All cancers,1826.25
+C18.3,All cancers,1826.25
+C18.4,All cancers,1826.25
+C18.5,All cancers,1826.25
+C18.6,All cancers,1826.25
+C18.7,All cancers,1826.25
+C18.8,All cancers,1826.25
+C18.9,All cancers,1826.25
+C18,All cancers,1826.25
+C19.0,All cancers,1826.25
+C19.1,All cancers,1826.25
+C19.2,All cancers,1826.25
+C19.3,All cancers,1826.25
+C19.4,All cancers,1826.25
+C19.5,All cancers,1826.25
+C19.6,All cancers,1826.25
+C19.7,All cancers,1826.25
+C19.8,All cancers,1826.25
+C19.9,All cancers,1826.25
+C19,All cancers,1826.25
+C20.0,All cancers,1826.25
+C20.1,All cancers,1826.25
+C20.2,All cancers,1826.25
+C20.3,All cancers,1826.25
+C20.4,All cancers,1826.25
+C20.5,All cancers,1826.25
+C20.6,All cancers,1826.25
+C20.7,All cancers,1826.25
+C20.8,All cancers,1826.25
+C20.9,All cancers,1826.25
+C20,All cancers,1826.25
+C21.0,All cancers,1826.25
+C21.1,All cancers,1826.25
+C21.2,All cancers,1826.25
+C21.3,All cancers,1826.25
+C21.4,All cancers,1826.25
+C21.5,All cancers,1826.25
+C21.6,All cancers,1826.25
+C21.7,All cancers,1826.25
+C21.8,All cancers,1826.25
+C21.9,All cancers,1826.25
+C21,All cancers,1826.25
+C50.0,All cancers,1826.25
+C50.1,All cancers,1826.25
+C50.2,All cancers,1826.25
+C50.3,All cancers,1826.25
+C50.4,All cancers,1826.25
+C50.5,All cancers,1826.25
+C50.6,All cancers,1826.25
+C50.7,All cancers,1826.25
+C50.8,All cancers,1826.25
+C50.9,All cancers,1826.25
+C50,All cancers,1826.25
+D05.0,All cancers,1826.25
+D05.1,All cancers,1826.25
+D05.2,All cancers,1826.25
+D05.3,All cancers,1826.25
+D05.4,All cancers,1826.25
+D05.5,All cancers,1826.25
+D05.6,All cancers,1826.25
+D05.7,All cancers,1826.25
+D05.8,All cancers,1826.25
+D05.9,All cancers,1826.25
+D05,All cancers,1826.25
+C22.0,All cancers,1826.25
+C22.2,All cancers,1826.25
+C22.3,All cancers,1826.25
+C22.4,All cancers,1826.25
+C22.7,All cancers,1826.25
+C22.9,All cancers,1826.25
+C33.0,All cancers,1826.25
+C33.1,All cancers,1826.25
+C33.2,All cancers,1826.25
+C33.3,All cancers,1826.25
+C33.4,All cancers,1826.25
+C33.5,All cancers,1826.25
+C33.6,All cancers,1826.25
+C33.7,All cancers,1826.25
+C33.8,All cancers,1826.25
+C33.9,All cancers,1826.25
+C33,All cancers,1826.25
+C34.0,All cancers,1826.25
+C34.1,All cancers,1826.25
+C34.2,All cancers,1826.25
+C34.3,All cancers,1826.25
+C34.4,All cancers,1826.25
+C34.5,All cancers,1826.25
+C34.6,All cancers,1826.25
+C34.7,All cancers,1826.25
+C34.8,All cancers,1826.25
+C34.9,All cancers,1826.25
+C34,All cancers,1826.25
+C45.0,All cancers,1826.25
+C45.1,All cancers,1826.25
+C45.2,All cancers,1826.25
+C45.3,All cancers,1826.25
+C45.4,All cancers,1826.25
+C45.5,All cancers,1826.25
+C45.6,All cancers,1826.25
+C45.7,All cancers,1826.25
+C45.8,All cancers,1826.25
+C45.9,All cancers,1826.25
+C45,All cancers,1826.25
+C15.0,All cancers,1826.25
+C15.1,All cancers,1826.25
+C15.2,All cancers,1826.25
+C15.3,All cancers,1826.25
+C15.4,All cancers,1826.25
+C15.5,All cancers,1826.25
+C15.6,All cancers,1826.25
+C15.7,All cancers,1826.25
+C15.8,All cancers,1826.25
+C15.9,All cancers,1826.25
+C15,All cancers,1826.25
+C61.0,All cancers,1826.25
+C61.1,All cancers,1826.25
+C61.2,All cancers,1826.25
+C61.3,All cancers,1826.25
+C61.4,All cancers,1826.25
+C61.5,All cancers,1826.25
+C61.6,All cancers,1826.25
+C61.7,All cancers,1826.25
+C61.8,All cancers,1826.25
+C61.9,All cancers,1826.25
+C61,All cancers,1826.25
+C16.0,All cancers,1826.25
+C16.1,All cancers,1826.25
+C16.2,All cancers,1826.25
+C16.3,All cancers,1826.25
+C16.4,All cancers,1826.25
+C16.5,All cancers,1826.25
+C16.6,All cancers,1826.25
+C16.7,All cancers,1826.25
+C16.8,All cancers,1826.25
+C16.9,All cancers,1826.25
+C16,All cancers,1826.25
+C73.0,All cancers,1826.25
+C73.1,All cancers,1826.25
+C73.2,All cancers,1826.25
+C73.3,All cancers,1826.25
+C73.4,All cancers,1826.25
+C73.5,All cancers,1826.25
+C73.6,All cancers,1826.25
+C73.7,All cancers,1826.25
+C73.8,All cancers,1826.25
+C73.9,All cancers,1826.25
+C73,All cancers,1826.25
+C79.7,All cancers,1826.25
+C79.5,All cancers,1826.25
+C78.4,All cancers,1826.25
+C78.5,All cancers,1826.25
+C78.0,All cancers,1826.25
+C77.0,All cancers,1826.25
+C77.1,All cancers,1826.25
+C77.2,All cancers,1826.25
+C77.3,All cancers,1826.25
+C77.4,All cancers,1826.25
+C77.5,All cancers,1826.25
+C77.6,All cancers,1826.25
+C77.7,All cancers,1826.25
+C77.8,All cancers,1826.25
+C77.9,All cancers,1826.25
+C77,All cancers,1826.25
+C78.2,All cancers,1826.25
+I10.0,Hypertension,9999999
+I10.1,Hypertension,9999999
+I10.2,Hypertension,9999999
+I10.3,Hypertension,9999999
+I10.4,Hypertension,9999999
+I10.5,Hypertension,9999999
+I10.6,Hypertension,9999999
+I10.7,Hypertension,9999999
+I10.8,Hypertension,9999999
+I10.9,Hypertension,9999999
+I10,Hypertension,9999999
+I11.0,Hypertension,9999999
+I11.1,Hypertension,9999999
+I11.2,Hypertension,9999999
+I11.3,Hypertension,9999999
+I11.4,Hypertension,9999999
+I11.5,Hypertension,9999999
+I11.6,Hypertension,9999999
+I11.7,Hypertension,9999999
+I11.8,Hypertension,9999999
+I11.9,Hypertension,9999999
+I11,Hypertension,9999999
+I12.0,Hypertension,9999999
+I12.1,Hypertension,9999999
+I12.2,Hypertension,9999999
+I12.3,Hypertension,9999999
+I12.4,Hypertension,9999999
+I12.5,Hypertension,9999999
+I12.6,Hypertension,9999999
+I12.7,Hypertension,9999999
+I12.8,Hypertension,9999999
+I12.9,Hypertension,9999999
+I12,Hypertension,9999999
+I13.0,Hypertension,9999999
+I13.1,Hypertension,9999999
+I13.2,Hypertension,9999999
+I13.3,Hypertension,9999999
+I13.4,Hypertension,9999999
+I13.5,Hypertension,9999999
+I13.6,Hypertension,9999999
+I13.7,Hypertension,9999999
+I13.8,Hypertension,9999999
+I13.9,Hypertension,9999999
+I13,Hypertension,9999999
+I15.0,Hypertension,9999999
+I15.1,Hypertension,9999999
+I15.2,Hypertension,9999999
+I15.3,Hypertension,9999999
+I15.4,Hypertension,9999999
+I15.5,Hypertension,9999999
+I15.6,Hypertension,9999999
+I15.7,Hypertension,9999999
+I15.8,Hypertension,9999999
+I15.9,Hypertension,9999999
+I15,Hypertension,9999999
+K58.0,IBS,9999999
+K58.1,IBS,9999999
+K58.2,IBS,9999999
+K58.3,IBS,9999999
+K58.4,IBS,9999999
+K58.5,IBS,9999999
+K58.6,IBS,9999999
+K58.7,IBS,9999999
+K58.8,IBS,9999999
+K58.9,IBS,9999999
+K58,IBS,9999999
+I63.0,Stroke,9999999
+I63.1,Stroke,9999999
+I63.2,Stroke,9999999
+I63.3,Stroke,9999999
+I63.4,Stroke,9999999
+I63.5,Stroke,9999999
+I63.8,Stroke,9999999
+I63.9,Stroke,9999999
+I69.3,Stroke,9999999
+G46.3,Stroke,9999999
+G46.4,Stroke,9999999
+G46.5,Stroke,9999999
+G46.6,Stroke,9999999
+G46.7,Stroke,9999999
+G46.8,Stroke,9999999
+I64.0,Stroke,9999999
+I64.1,Stroke,9999999
+I64.2,Stroke,9999999
+I64.3,Stroke,9999999
+I64.4,Stroke,9999999
+I64.5,Stroke,9999999
+I64.6,Stroke,9999999
+I64.7,Stroke,9999999
+I64.8,Stroke,9999999
+I64.9,Stroke,9999999
+I64,Stroke,9999999
+I69.4,Stroke,9999999
+I63.0,Stroke_TIA,9999999
+I63.1,Stroke_TIA,9999999
+I63.2,Stroke_TIA,9999999
+I63.3,Stroke_TIA,9999999
+I63.4,Stroke_TIA,9999999
+I63.5,Stroke_TIA,9999999
+I63.8,Stroke_TIA,9999999
+I63.9,Stroke_TIA,9999999
+I69.3,Stroke_TIA,9999999
+G46.3,Stroke_TIA,9999999
+G46.4,Stroke_TIA,9999999
+G46.5,Stroke_TIA,9999999
+G46.6,Stroke_TIA,9999999
+G46.7,Stroke_TIA,9999999
+G46.8,Stroke_TIA,9999999
+I64.0,Stroke_TIA,9999999
+I64.1,Stroke_TIA,9999999
+I64.2,Stroke_TIA,9999999
+I64.3,Stroke_TIA,9999999
+I64.4,Stroke_TIA,9999999
+I64.5,Stroke_TIA,9999999
+I64.6,Stroke_TIA,9999999
+I64.7,Stroke_TIA,9999999
+I64.8,Stroke_TIA,9999999
+I64.9,Stroke_TIA,9999999
+I64,Stroke_TIA,9999999
+I69.4,Stroke_TIA,9999999
+G45.0,Stroke_TIA,9999999
+G45.1,Stroke_TIA,9999999
+G45.2,Stroke_TIA,9999999
+G45.3,Stroke_TIA,9999999
+G45.4,Stroke_TIA,9999999
+G45.8,Stroke_TIA,9999999
+G45.9,Stroke_TIA,9999999
+G46.0,Stroke_TIA,9999999
+G46.1,Stroke_TIA,9999999
+G46.2,Stroke_TIA,9999999
+I65.0,Stroke_TIA,9999999
+I65.1,Stroke_TIA,9999999
+I65.2,Stroke_TIA,9999999
+I65.3,Stroke_TIA,9999999
+I65.4,Stroke_TIA,9999999
+I65.5,Stroke_TIA,9999999
+I65.6,Stroke_TIA,9999999
+I65.7,Stroke_TIA,9999999
+I65.8,Stroke_TIA,9999999
+I65.9,Stroke_TIA,9999999
+I65,Stroke_TIA,9999999
+I66.0,Stroke_TIA,9999999
+I66.1,Stroke_TIA,9999999
+I66.2,Stroke_TIA,9999999
+I66.3,Stroke_TIA,9999999
+I66.4,Stroke_TIA,9999999
+I66.5,Stroke_TIA,9999999
+I66.6,Stroke_TIA,9999999
+I66.7,Stroke_TIA,9999999
+I66.8,Stroke_TIA,9999999
+I66.9,Stroke_TIA,9999999
+I66,Stroke_TIA,9999999
+NA,Connective tissue disorder,9999999
+J99.0,Connective tissue Cam,9999999
+M05.0,Connective tissue Cam,9999999
+M05.1,Connective tissue Cam,9999999
+M05.2,Connective tissue Cam,9999999
+M05.3,Connective tissue Cam,9999999
+M05.4,Connective tissue Cam,9999999
+M05.5,Connective tissue Cam,9999999
+M05.6,Connective tissue Cam,9999999
+M05.7,Connective tissue Cam,9999999
+M05.8,Connective tissue Cam,9999999
+M05.9,Connective tissue Cam,9999999
+M05,Connective tissue Cam,9999999
+M06.0,Connective tissue Cam,9999999
+M06.1,Connective tissue Cam,9999999
+M06.2,Connective tissue Cam,9999999
+M06.3,Connective tissue Cam,9999999
+M06.4,Connective tissue Cam,9999999
+M06.5,Connective tissue Cam,9999999
+M06.6,Connective tissue Cam,9999999
+M06.7,Connective tissue Cam,9999999
+M06.8,Connective tissue Cam,9999999
+M06.9,Connective tissue Cam,9999999
+M06,Connective tissue Cam,9999999
+E66.0,Obesity,9999999
+E66.1,Obesity,9999999
+E66.2,Obesity,9999999
+E66.3,Obesity,9999999
+E66.4,Obesity,9999999
+E66.5,Obesity,9999999
+E66.6,Obesity,9999999
+E66.7,Obesity,9999999
+E66.8,Obesity,9999999
+E66.9,Obesity,9999999
+E66,Obesity,9999999
+C18.0,Bowel cancer,1826.25
+C18.1,Bowel cancer,1826.25
+C18.2,Bowel cancer,1826.25
+C18.3,Bowel cancer,1826.25
+C18.4,Bowel cancer,1826.25
+C18.5,Bowel cancer,1826.25
+C18.6,Bowel cancer,1826.25
+C18.7,Bowel cancer,1826.25
+C18.8,Bowel cancer,1826.25
+C18.9,Bowel cancer,1826.25
+C18,Bowel cancer,1826.25
+C19.0,Bowel cancer,1826.25
+C19.1,Bowel cancer,1826.25
+C19.2,Bowel cancer,1826.25
+C19.3,Bowel cancer,1826.25
+C19.4,Bowel cancer,1826.25
+C19.5,Bowel cancer,1826.25
+C19.6,Bowel cancer,1826.25
+C19.7,Bowel cancer,1826.25
+C19.8,Bowel cancer,1826.25
+C19.9,Bowel cancer,1826.25
+C19,Bowel cancer,1826.25
+C20.0,Bowel cancer,1826.25
+C20.1,Bowel cancer,1826.25
+C20.2,Bowel cancer,1826.25
+C20.3,Bowel cancer,1826.25
+C20.4,Bowel cancer,1826.25
+C20.5,Bowel cancer,1826.25
+C20.6,Bowel cancer,1826.25
+C20.7,Bowel cancer,1826.25
+C20.8,Bowel cancer,1826.25
+C20.9,Bowel cancer,1826.25
+C20,Bowel cancer,1826.25
+C21.0,Bowel cancer,1826.25
+C21.1,Bowel cancer,1826.25
+C21.2,Bowel cancer,1826.25
+C21.3,Bowel cancer,1826.25
+C21.4,Bowel cancer,1826.25
+C21.5,Bowel cancer,1826.25
+C21.6,Bowel cancer,1826.25
+C21.7,Bowel cancer,1826.25
+C21.8,Bowel cancer,1826.25
+C21.9,Bowel cancer,1826.25
+C21,Bowel cancer,1826.25
+C50.0,Breast cancer,1826.25
+C50.1,Breast cancer,1826.25
+C50.2,Breast cancer,1826.25
+C50.3,Breast cancer,1826.25
+C50.4,Breast cancer,1826.25
+C50.5,Breast cancer,1826.25
+C50.6,Breast cancer,1826.25
+C50.7,Breast cancer,1826.25
+C50.8,Breast cancer,1826.25
+C50.9,Breast cancer,1826.25
+C50,Breast cancer,1826.25
+D05.0,Breast cancer,1826.25
+D05.1,Breast cancer,1826.25
+D05.2,Breast cancer,1826.25
+D05.3,Breast cancer,1826.25
+D05.4,Breast cancer,1826.25
+D05.5,Breast cancer,1826.25
+D05.6,Breast cancer,1826.25
+D05.7,Breast cancer,1826.25
+D05.8,Breast cancer,1826.25
+D05.9,Breast cancer,1826.25
+D05,Breast cancer,1826.25
+C33.0,Lung cancer,1826.25
+C33.1,Lung cancer,1826.25
+C33.2,Lung cancer,1826.25
+C33.3,Lung cancer,1826.25
+C33.4,Lung cancer,1826.25
+C33.5,Lung cancer,1826.25
+C33.6,Lung cancer,1826.25
+C33.7,Lung cancer,1826.25
+C33.8,Lung cancer,1826.25
+C33.9,Lung cancer,1826.25
+C33,Lung cancer,1826.25
+C34.0,Lung cancer,1826.25
+C34.1,Lung cancer,1826.25
+C34.2,Lung cancer,1826.25
+C34.3,Lung cancer,1826.25
+C34.4,Lung cancer,1826.25
+C34.5,Lung cancer,1826.25
+C34.6,Lung cancer,1826.25
+C34.7,Lung cancer,1826.25
+C34.8,Lung cancer,1826.25
+C34.9,Lung cancer,1826.25
+C34,Lung cancer,1826.25
+C61.0,Prostate cancer,1826.25
+C61.1,Prostate cancer,1826.25
+C61.2,Prostate cancer,1826.25
+C61.3,Prostate cancer,1826.25
+C61.4,Prostate cancer,1826.25
+C61.5,Prostate cancer,1826.25
+C61.6,Prostate cancer,1826.25
+C61.7,Prostate cancer,1826.25
+C61.8,Prostate cancer,1826.25
+C61.9,Prostate cancer,1826.25
+C61,Prostate cancer,1826.25
+J99.0,Rheumatoid arthritis,9999999
+M05.0,Rheumatoid arthritis,9999999
+M05.1,Rheumatoid arthritis,9999999
+M05.2,Rheumatoid arthritis,9999999
+M05.3,Rheumatoid arthritis,9999999
+M05.4,Rheumatoid arthritis,9999999
+M05.5,Rheumatoid arthritis,9999999
+M05.6,Rheumatoid arthritis,9999999
+M05.7,Rheumatoid arthritis,9999999
+M05.8,Rheumatoid arthritis,9999999
+M05.9,Rheumatoid arthritis,9999999
+M05,Rheumatoid arthritis,9999999
+M06.0,Rheumatoid arthritis,9999999
+M06.1,Rheumatoid arthritis,9999999
+M06.2,Rheumatoid arthritis,9999999
+M06.3,Rheumatoid arthritis,9999999
+M06.4,Rheumatoid arthritis,9999999
+M06.5,Rheumatoid arthritis,9999999
+M06.6,Rheumatoid arthritis,9999999
+M06.7,Rheumatoid arthritis,9999999
+M06.8,Rheumatoid arthritis,9999999
+M06.9,Rheumatoid arthritis,9999999
+M06,Rheumatoid arthritis,9999999
+G45.0,TIA,9999999
+G45.1,TIA,9999999
+G45.2,TIA,9999999
+G45.3,TIA,9999999
+G45.4,TIA,9999999
+G45.8,TIA,9999999
+G45.9,TIA,9999999
+G46.0,TIA,9999999
+G46.1,TIA,9999999
+G46.2,TIA,9999999
+I65.0,TIA,9999999
+I65.1,TIA,9999999
+I65.2,TIA,9999999
+I65.3,TIA,9999999
+I65.4,TIA,9999999
+I65.5,TIA,9999999
+I65.6,TIA,9999999
+I65.7,TIA,9999999
+I65.8,TIA,9999999
+I65.9,TIA,9999999
+I65,TIA,9999999
+I66.0,TIA,9999999
+I66.1,TIA,9999999
+I66.2,TIA,9999999
+I66.3,TIA,9999999
+I66.4,TIA,9999999
+I66.5,TIA,9999999
+I66.6,TIA,9999999
+I66.7,TIA,9999999
+I66.8,TIA,9999999
+I66.9,TIA,9999999
+I66,TIA,9999999
