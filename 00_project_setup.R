@@ -20,7 +20,7 @@ library(writexl)
 # Project's file locations
 #-------------------------------------------------------------------------------
 
-source('00_file_locations.R')
+source('00.0_file_locations.R')
 
 #-------------------------------------------------------------------------------
 # List of conditions modelled
@@ -80,7 +80,8 @@ years <- data.table(fyear = as.character(seq(2007, 2020, by = 1)))
 
 
 years$year_start <- as.Date(
-paste(years$fyear, paste0("-",start_month,"-",start_day), sep = ""), "%Y-%m-%d")
+  paste(years$fyear, paste0("-",start_month,"-",start_day), sep = ""), 
+  "%Y-%m-%d")
 
 years$year_end <- years$year_start %m+% years(1) %m-% days(1) # %m+% function to iterate over years/month/days
 
