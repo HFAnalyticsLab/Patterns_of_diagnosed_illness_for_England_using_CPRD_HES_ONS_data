@@ -59,3 +59,6 @@ Output/
 Scripts/archive
 Scripts/tests.R
 
+# s3 locations
+00.0_file_locations.R
+
